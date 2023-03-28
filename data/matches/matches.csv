@@ -1,0 +1,26 @@
+timestamp,id,player,event,answer,correct,state,time_elapsed,score,rounds_left,level
+1673370136.092559,88e67b98-9108-11ed-bd55-001a7dda7115,JoseE,match_started,-,-,-,-,-,10,Medium
+1673370137.426227,89b1fc01-9108-11ed-a17d-001a7dda7115,JoseE,guess_made,Jehad Al Zoaed,Steven Alzate,error,1.3336679935455322,-,9,Medium
+1673370137.61562,89cee22a-9108-11ed-a72d-001a7dda7115,JoseE,guess_made,Samuele Birindelli,Oswaldinato,error,0.1893930435180664,-,8,Medium
+1673370138.29961,8a374086-9108-11ed-ab5b-001a7dda7115,JoseE,guess_made,Roger Guedes,Roger Guedes,ok,0.6839900016784668,64495,7,Medium
+1673370138.476647,8a524405-9108-11ed-b80f-001a7dda7115,JoseE,guess_made,David Rodríguez,Sebastián Villa,error,0.17703676223754883,-,6,Medium
+1673370138.6706254,8a6fdd4f-9108-11ed-b401-001a7dda7115,JoseE,guess_made,Marc McNulty,Myron Boadu,error,0.19397854804992676,-,5,Medium
+1673370138.848266,8a8af867-9108-11ed-bfd9-001a7dda7115,JoseE,guess_made,Kim Young Gwon,Simone Scuffet,error,0.17764067649841309,-,4,Medium
+1673370139.0363057,8aa7a9b0-9108-11ed-9038-001a7dda7115,JoseE,guess_made,John White,João Pedro,error,0.18803954124450684,-,3,Medium
+1673370139.2216587,8ac3f20b-9108-11ed-a4d7-001a7dda7115,JoseE,guess_made,Mario Gómez,Karim Benzema,error,0.18535304069519043,-,2,Medium
+1673370139.4042656,8adfcf21-9108-11ed-8cca-001a7dda7115,JoseE,guess_made,Sahverdi Çetin,Morgan Sanson,error,0.18260693550109863,-,1,Medium
+1673370139.5883477,8afbe5d4-9108-11ed-bc02-001a7dda7115,JoseE,guess_made,Hwang Ui Jo,Robin Koch,error,0.18408203125,-,0,Medium
+1673370139.5883477,8afbe5d5-9108-11ed-8dc5-001a7dda7115,JoseE,match_ended,-,-,-,-,64495,0,Medium
+1673391265.018392,bab8b4f0-9139-11ed-9749-001a7dda7115,JoseE,match_left,-,-,-,-,-,9,Medium
+1673391274.5529768,c06791aa-9139-11ed-96a7-001a7dda7115,JoseE,match_started,-,-,-,-,-,10,Easy
+1673391280.7007396,c411a4a3-9139-11ed-b03b-001a7dda7115,JoseE,guess_made,Dries Mertens,Dries Mertens,ok,6.147762775421143,23574,9,Easy
+1673391286.5337584,c78bb0f1-9139-11ed-a1c6-001a7dda7115,JoseE,guess_made,Karim Benzema,Karim Benzema,ok,5.833018779754639,24074,8,Easy
+1673391292.901252,cb574b28-9139-11ed-bdc5-001a7dda7115,JoseE,guess_made,Sergio Ramos,Sergio Ramos,ok,6.367493629455566,23226,7,Easy
+1673391297.255609,cdefb73a-9139-11ed-a1a4-001a7dda7115,JoseE,guess_made,Eden Hazard,Eden Hazard,ok,4.354357004165649,26421,6,Easy
+1673391303.2463238,d181d384-9139-11ed-894a-001a7dda7115,JoseE,guess_made,Luka Modric,Luka Modric,ok,5.99071478843689,23824,5,Easy
+1673391310.5584855,d5dd92da-9139-11ed-a51e-001a7dda7115,JoseE,guess_made,Pedri,Pedri,ok,7.312161922454834,21726,4,Easy
+1673391314.4169266,d82a5333-9139-11ed-82c2-001a7dda7115,JoseE,guess_made,Paulo Dybala,Paulo Dybala,ok,3.85844087600708,27208,3,Easy
+1673391323.3064764,dd76c33b-9139-11ed-9290-001a7dda7115,JoseE,guess_made,Pierre-Emerick Aubameyang,Pierre-Emerick Aubameyang,ok,8.889549732208252,19222,2,Easy
+1673391328.8492672,e0c48680-9139-11ed-872c-001a7dda7115,JoseE,guess_made,Sandro Tonali,Sandro Tonali,ok,5.54279088973999,24535,1,Easy
+1673391331.605204,e2690c4a-9139-11ed-a1fb-001a7dda7115,JoseE,guess_made,Robert Lewandowski,Robert Lewandowski,ok,2.755936861038208,28958,0,Easy
+1673391331.605204,e2690c4b-9139-11ed-93a6-001a7dda7115,JoseE,match_ended,-,-,-,-,242768,0,Easy
